@@ -1,0 +1,4 @@
+1	Num 2		7
+2	Computer	5
+3	Num 1		2
+4	You		1

@@ -1,0 +1,245 @@
+﻿  main.cpp
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(160): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(455): note: see declaration of 'getche'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(300): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(455): note: see declaration of 'getche'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(329): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(353): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(455): note: see declaration of 'getche'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(393): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(455): note: see declaration of 'getche'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(424): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(448): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(455): note: see declaration of 'getche'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(490): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(492): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(500): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(502): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(510): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(512): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(521): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(523): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(531): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(533): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(541): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(543): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(552): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(554): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(561): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(563): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(570): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(580): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(582): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(589): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(591): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(598): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(600): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(615): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(617): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(631): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(633): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(647): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(649): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(659): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(661): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(669): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(671): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(679): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(681): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(690): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(692): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(700): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(702): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(710): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(712): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(721): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(723): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(731): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(733): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(740): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(742): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(751): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(753): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(761): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(763): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(770): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(772): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(787): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(789): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(803): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(805): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(818): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(820): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(830): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(832): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(839): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(841): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(848): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(850): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(859): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(861): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(868): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(870): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(877): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(879): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(888): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(890): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(897): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(899): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(906): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(908): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(917): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(919): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(926): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(928): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(935): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(937): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(947): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(949): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(956): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(958): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(965): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(967): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1089): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(455): note: see declaration of 'getche'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1120): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(455): note: see declaration of 'getche'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1126): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(455): note: see declaration of 'getche'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1182): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(455): note: see declaration of 'getche'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1189): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(455): note: see declaration of 'getche'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1220): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(455): note: see declaration of 'getche'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1388): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1389): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1391): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1392): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(455): note: see declaration of 'getche'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1401): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(455): note: see declaration of 'getche'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1413): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1414): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(455): note: see declaration of 'getche'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1424): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1425): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(455): note: see declaration of 'getche'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1435): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1436): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1438): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1439): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(455): note: see declaration of 'getche'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1449): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(455): note: see declaration of 'getche'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1469): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1471): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(455): note: see declaration of 'getche'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1482): warning C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(471): note: see declaration of 'cprintf'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1483): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(452): note: see declaration of 'getch'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1499): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(455): note: see declaration of 'getche'
+h:\workspace\c++\dooz\dooz\dooz\main.cpp(1765): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  dooz.vcxproj -> H:\Workspace\c++\Dooz\dooz\Debug\dooz.exe
+  dooz.vcxproj -> H:\Workspace\c++\Dooz\dooz\Debug\dooz.pdb (Partial PDB)
